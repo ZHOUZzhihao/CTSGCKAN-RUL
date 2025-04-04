@@ -19,11 +19,11 @@ The training program is not available at this time because the content has not y
 Model definition is not yet available.
 Run "main.py" directly after publishing, and then you can see the predicted RMSE, Score.
 Take FD002 for example.The model structure and indicators are shown below
-![images/Model_structure.png](Model_structure.png)
+![images/Model_structure.png](https://github.com/ZHOUZzhihao/CTSGCKAN-RUL/blob/main/images/Model_structure.png)
 The model structure and indicators are shown below
-![images/FD002_output.png](FD002_output.png)
+![images/FD002_output.png](https://github.com/ZHOUZzhihao/CTSGCKAN-RUL/blob/main/images/FD002_output.png)
 The prediction results for all test engines are shown below.
-![images/FD002_result.png](FD002_result.png)
+![images/FD002_result.png](https://github.com/ZHOUZzhihao/CTSGCKAN-RUL/blob/main/images/FD002_result.png)
 
 ## Environment Details
 ```
