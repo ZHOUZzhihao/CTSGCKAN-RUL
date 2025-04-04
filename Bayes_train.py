@@ -16,13 +16,13 @@ from tslearn.metrics import SoftDTWLossPyTorch
 soft_dtw_loss = SoftDTWLossPyTorch(gamma=0.1)  
 
 class CombinedLoss(nn.Module):
-""
-The article will be uploaded as soon as it is published
-""
+        ""
+        The program will be uploaded as soon as the article is published
+        ""
         return  
 
 def Training_Bayes(trial):
-""
-The article will be uploaded as soon as it is published
-""
+        ""
+        The program will be uploaded as soon as the article is published
+        ""
     return 
